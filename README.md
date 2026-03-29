@@ -67,7 +67,7 @@
 ## 🚀 Learning Journey
 
 ### 🐍 Python Basics Journey
-📌 Repository: [Python Basic Journey](https://github.com/akdss-AI/python-basic-jounrey)
+📌 Repository: [python-basics-journey](https://github.com/akdss-AI/python-basic-jounrey)
 
 - 🔢 Even / Odd Checker  
 - 🧮 Mini Calculator  
