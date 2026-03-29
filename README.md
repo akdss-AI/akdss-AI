@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Aqdas%20Abbad&fontSize=44&fontColor=ffffff&desc=AI%20Engineer%20in%20Progress&descSize=18&descAlignY=75)
+![banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=220&section=header&text=Aqdas%20Abbas&fontSize=42&fontColor=ffffff&desc=AI%20Engineer%20in%20Progress%20%7C%20Math%20Driven%20Mind&descSize=16&descAlign=50&descAlignY=70)
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Building+AI+with+Strong+Mathematics;Python+%7C+Problem+Solving+%7C+Logic;From+Concepts+to+Real+World+Systems)
 ## 👋 Hi, I'm Aqdas
