@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Aqdas
 
-<!--
-**akdss-AI/akdss-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Software Engineering (5th Semester)  
+💻 Student at Virtual University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 📚 Studied: DBMS, Operating Systems, OOP, Data Structures, Networking
+- 🐍 Currently Learning: Python & AI Engineering  
+- 🧠 Practicing coding regularly (weekly progress uploads)  
+- 🎯 Goal: Become an AI Engineer  
+
+---
+
+## 🧩 What I Know 
+
+- 💾 Databases: SQL
+- ⚙️ Programming Concepts: OOP(python), DSA   
+- 🌐 Computer Networks & Data Communication  
+- 🖥️ Operating Systems concepts
+- 📐 Linear algebra, Statistics & Probablity, Calculus ,  
