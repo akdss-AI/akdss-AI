@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=180&section=header&text=Aqdas%20Abbas&fontSize=42&fontColor=ffffff&desc=AI%20Engineer%20in%20Progress%20%7C%20Math%20Driven%20Mind&descSize=18&descAlign=50)
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Building+AI+with+Strong+Mathematics;Python+%7C+Problem+Solving+%7C+Logic;From+Concepts+to+Real+World+Systems)
 ## 👋 Hi, I'm Aqdas
 
 🎓 BS Software Engineering (5th Semester)  
@@ -49,4 +51,42 @@
 - Data Structures & Algorithms (C++)  
 - Operating Systems  
 - Computer Networks  
-- SQL    
+- SQL
+
+---
+
+## 📊 GitHub Stats
+
+![Aqdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdss-AI&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akdss-AI&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akdss-AI&theme=react-dark)
+
+---
+
+## 🚀 Learning Journey
+
+### 🐍 Python Basics Journey
+📌 Repository: [Python Basic Journey](https://github.com/akdss-AI/python-basic-jounrey)
+
+- 🔢 Even / Odd Checker  
+- 🧮 Mini Calculator  
+- 🔍 Prime Number Checker  
+- 🧰 Number Toolkit  
+
+🧠 Focus: Logic Building & Problem Solving  
+
+---
+
+## 📈 Current Focus
+
+- Learning Python deeply  
+- Strengthening problem-solving skills  
+- Preparing for Machine Learning  
+
+---
+
+## 🎯 Future Goals
+
+- Build AI/ML projects  
+- Learn Data Science & Machine Learning  
+- Work on real-world AI systems  
