@@ -1,15 +1,15 @@
-<!-- ========================================================= -->
-<!--                    AQDAS ABBAS PROFILE                     -->
-<!-- ========================================================= -->
+<!-- ===================== PROFILE HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Aqdas Abbas</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aqdas%20Abbas&fontSize=55&fontAlignY=38&desc=Aspiring%20AI%20Product%20Engineer%20%7C%20Software%20Engineering%20Student&descAlignY=60&animation=fadeIn" width="100%" alt="Aqdas Abbas Banner"/>
+</p>
 
 <h3 align="center">
-Aspiring AI Product Engineer | Software Engineering Student
+🐍 Python • ⚡ FastAPI • 🗄️ PostgreSQL • 🤖 Machine Learning
 </h3>
 
 <p align="center">
-Building intelligent applications with Python, FastAPI, PostgreSQL & Machine Learning 🚀
+Building intelligent applications by combining backend engineering, databases and machine learning 🚀
 </p>
 
 <p align="center">
@@ -20,27 +20,17 @@ Building intelligent applications with Python, FastAPI, PostgreSQL & Machine Lea
 
 ## 👩‍💻 About Me
 
-🎓 BS Software Engineering **(5th Semester)** student at **Virtual University of Pakistan**
-
-🤖 Following a structured journey toward **AI & AI Product Engineering**
-
-🐍 Building applications and solving problems using **Python**
-
-⚡ Developing backend systems with **FastAPI & REST APIs**
-
-🗄️ Working with **PostgreSQL, SQL & SQLAlchemy ORM**
-
-🔐 Implementing secure **JWT-based Authentication**
-
-🧠 Training and evaluating **Machine Learning models**
-
-📊 Working with **Pandas, NumPy, Scikit-learn & Data Visualization**
-
-🚀 Building end-to-end projects that combine **Backend + Databases + Machine Learning**
-
-🌱 Currently expanding toward **LLMs and AI-powered applications**
-
-🎯 **Goal:** Become an AI Product Engineer capable of building complete, intelligent, real-world products
+- 🎓 BS Software Engineering **(5th Semester)** student at **Virtual University of Pakistan**
+- 🤖 Following a structured journey toward **AI & AI Product Engineering**
+- 🐍 Building applications and solving problems using **Python**
+- ⚡ Developing backend systems with **FastAPI & REST APIs**
+- 🗄️ Working with **PostgreSQL, SQL & SQLAlchemy ORM**
+- 🔐 Implementing secure **JWT-based Authentication**
+- 🧠 Training and evaluating **Machine Learning models**
+- 📊 Working with **Pandas, NumPy, Scikit-learn & Data Visualization**
+- 🚀 Building projects combining **Backend + Databases + Machine Learning**
+- 🌱 Progressing toward **LLMs and AI-powered applications**
+- 🎯 Goal: Become an **AI Product Engineer** capable of building complete intelligent products
 
 ---
 
@@ -52,105 +42,57 @@ Building intelligent applications with Python, FastAPI, PostgreSQL & Machine Lea
 - 🗄️ Building database-driven applications using **PostgreSQL + SQLAlchemy ORM**
 - 🔐 Implementing secure **JWT Authentication**
 - 📊 Practicing **Data Analysis & Visualization**
-- 🧠 Strengthening my understanding of Machine Learning algorithms
-- 🤖 Progressing toward **LLM integration & AI Engineering**
+- 🧠 Strengthening Machine Learning fundamentals
+- 🤖 Progressing toward **LLM Integration & AI Engineering**
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp" alt="Python and C++"/>
 </p>
 
-- Python
-- C++
-
----
-
-## ⚡ Backend & API Development
+### ⚡ Backend & API Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
 </p>
 
-- FastAPI
-- REST API Development
-- CRUD Operations
-- API Endpoints & Routing
-- Pydantic Data Validation
-- JWT Authentication
-- Password Hashing
-- Backend Project Structuring
-- Uvicorn
-- Environment Variables
+`FastAPI` • `REST APIs` • `CRUD` • `Pydantic` • `JWT Authentication` • `Uvicorn`
 
----
-
-## 🗄️ Databases & ORM
+### 🗄️ Databases & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL MySQL SQLite"/>
 </p>
 
-- PostgreSQL
-- MySQL
-- SQLite
-- SQL
-- SQLAlchemy ORM
-- Database Schema Design
-- Table Relationships
-- Primary & Foreign Keys
-- Database Integration with FastAPI
+`PostgreSQL` • `MySQL` • `SQLite` • `SQL` • `SQLAlchemy ORM`
 
----
-
-## 🤖 Machine Learning & Data
+### 🤖 Machine Learning & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn"/>
 </p>
 
-- Scikit-learn
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis
-- Feature Selection
-- Train/Test Splitting
-- Model Training
-- Model Evaluation
-- Predictive Modeling
-- Data Visualization
+`Scikit-learn` • `Pandas` • `NumPy` • `Data Preprocessing` • `EDA` • `Model Training` • `Model Evaluation` • `Data Visualization`
 
----
-
-## 🧠 Machine Learning Algorithms
+### 🧠 Machine Learning Algorithms
 
 - 📈 Linear Regression
 - 🌳 Decision Trees
 - 🌲 Random Forest
 - 📍 K-Nearest Neighbors (KNN)
 
----
-
-## 🔧 Development Tools
+### 🔧 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools"/>
 </p>
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- pgAdmin
-- Google Colab
-- Jupyter Notebook
-- `.env` Environment Variables
+`Git` • `GitHub` • `VS Code` • `Postman` • `pgAdmin` • `Google Colab` • `Jupyter Notebook`
 
 ---
 
@@ -171,19 +113,9 @@ Building intelligent applications with Python, FastAPI, PostgreSQL & Machine Lea
 
 ## 💰 Smart Expense Tracker
 
-An evolving intelligent expense management application designed to combine backend development, database management, secure authentication and Machine Learning.
+An evolving intelligent expense management application combining backend development, database management, secure authentication and Machine Learning.
 
-**Key Areas:**
-
-- Expense management
-- REST API development
-- Database integration
-- User authentication
-- Machine Learning integration
-- Expense analysis & prediction
-
-**Technologies:**
-
+**Technologies:**  
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Machine Learning`
 
 ---
@@ -192,17 +124,7 @@ An evolving intelligent expense management application designed to combine backe
 
 A backend REST API project built to practice secure user authentication, database integration and CRUD operations.
 
-**Key Areas:**
-
-- RESTful API development
-- User authentication
-- JWT tokens
-- Password hashing
-- CRUD operations
-- Database persistence
-
-**Technologies:**
-
+**Technologies:**  
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy ORM` `JWT Authentication`
 
 ---
@@ -211,16 +133,7 @@ A backend REST API project built to practice secure user authentication, databas
 
 A Machine Learning project focused on predicting agricultural crop yield using environmental, soil and nutrient-related features.
 
-**Key Areas:**
-
-- Data preprocessing
-- Feature analysis
-- Model training
-- Prediction
-- Model evaluation
-
-**Technologies:**
-
+**Technologies:**  
 `Python` `Pandas` `NumPy` `Scikit-learn` `Decision Tree`
 
 ---
@@ -229,16 +142,7 @@ A Machine Learning project focused on predicting agricultural crop yield using e
 
 A Machine Learning classification project exploring medical diagnosis prediction using patient-related features.
 
-**Key Areas:**
-
-- Data preprocessing
-- Classification
-- Model training
-- Prediction
-- Model evaluation
-
-**Technologies:**
-
+**Technologies:**  
 `Python` `Pandas` `NumPy` `Scikit-learn` `Random Forest`
 
 ---
@@ -247,23 +151,14 @@ A Machine Learning classification project exploring medical diagnosis prediction
 
 A Machine Learning project applying the K-Nearest Neighbors algorithm to energy-related data.
 
-**Key Areas:**
-
-- Data preprocessing
-- Feature preparation
-- KNN modeling
-- Prediction
-- Model evaluation
-
-**Technologies:**
-
+**Technologies:**  
 `Python` `Pandas` `NumPy` `Scikit-learn` `KNN`
 
 ---
 
 # 🌱 My Engineering Journey
 
-I'm continuously progressing from programming fundamentals toward building complete AI-powered applications.
+I'm progressively moving from programming fundamentals toward building complete AI-powered applications.
 
 ```text
 Python & Programming Foundations
@@ -289,26 +184,54 @@ End-to-End Intelligent Applications
 LLMs & AI Integration
               ↓
 AI Product Engineering 🚀
+```
 
+---
 
+# 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akdss-AI&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Aqdas Abbas GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akdss-AI&layout=compact&hide_border=true" height="170" alt="Aqdas Abbas Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=akdss-AI&hide_border=true" alt="Aqdas Abbas GitHub Streak"/>
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build production-style intelligent applications
+- 🧠 Strengthen Machine Learning fundamentals
+- ⚙️ Improve backend architecture & API development
+- 🗄️ Build stronger database-driven applications
+- 🤖 Learn LLM integration & AI application development
+- 🔗 Integrate Machine Learning models with backend applications
+- 📦 Build complete end-to-end portfolio projects
+- 💼 Prepare for remote **Python / Backend / AI Engineering opportunities**
+- 🎯 Progress toward becoming an **AI Product Engineer**
+
+---
 
 # 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/aqdas-abbas-073936373/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:akdss864@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-
-<a href="https://github.com/akdss-AI">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/aqdas-abbas-073936373/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:akdss864@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/akdss-AI">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -320,16 +243,3 @@ AI Product Engineering 🚀
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
-
-🎯 Current Goals
-🚀 Build production-style intelligent applications
-🧠 Strengthen Machine Learning fundamentals
-⚙️ Improve backend architecture & API development
-🗄️ Build stronger database-driven applications
-🤖 Learn LLM integration & AI application development
-🔗 Integrate Machine Learning models with backend applications
-📦 Build complete end-to-end portfolio projects
-💼 Prepare for remote Python / Backend / AI Engineering opportunities
-🎯 Progress toward becoming an AI Product Engineer
-
-
