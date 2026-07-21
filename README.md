@@ -190,18 +190,23 @@ AI Product Engineering 🚀
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akdss-AI&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Aqdas Abbas GitHub Stats"/>
-</p>
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akdss-AI&layout=compact&hide_border=true" height="170" alt="Aqdas Abbas Most Used Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akdss-AI&hide_border=true" alt="Aqdas Abbas GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=akdss-AI&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akdss-AI&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=akdss-AI&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
 ---
 
 # 🎯 Current Goals
