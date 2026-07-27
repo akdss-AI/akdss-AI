@@ -131,7 +131,7 @@ A backend REST API project built to practice secure user authentication, databas
 
 ## 🌾 Crop Yield Prediction
 
-A Machine Learning project focused on predicting agricultural crop yield using environmental, soil and nutrient-related features.
+A Machine Learning peoject focused on predicting agricultural crop yield using environmental, soil and nutrient-related features.
 
 **Technologies:**  
 `Python` `Pandas` `NumPy` `Scikit-learn` `Decision Tree`
@@ -221,7 +221,7 @@ AI Product Engineering 🚀
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aqdas-abbas-073936373/">
